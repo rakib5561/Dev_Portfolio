@@ -1,5 +1,7 @@
+
 body{
 
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -14,9 +16,11 @@ h1{
 }
 
 
-section{
+#Top_banner{
 
     display: flex;
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
 }
 
 .helf-width{
