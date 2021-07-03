@@ -21,6 +21,7 @@ h1{
     display: flex;
     background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 80px;
 }
 
 .helf-width{
@@ -46,4 +47,13 @@ h1{
     font-weight: 700;
     text-transform: uppercase;
 
+}
+
+#dream_big{
+
+    display: flex;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 80px;
+    background-position: right;
 }
